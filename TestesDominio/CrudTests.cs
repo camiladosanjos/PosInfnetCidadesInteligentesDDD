@@ -6,7 +6,7 @@ using System;
 namespace TestesDominio
 {
     [TestClass]
-    public class UnitTest1
+    public class CrudTests
     {
         [TestMethod]
         public void AdicionarEstacaoRecarga()
