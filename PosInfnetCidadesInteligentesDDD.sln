@@ -25,6 +25,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "5.2 - Cross-cutting", "5.2 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PosInfnetCidadesInteligentesDDD.Aplicacao", "PosInfnetCidadesInteligentesDDD.Aplicacao\PosInfnetCidadesInteligentesDDD.Aplicacao.csproj", "{9EAAE5CA-1295-4EC7-9A0C-7598061B349A}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "6 - Testes", "6 - Testes", "{3503587B-AA9F-47D3-9F20-3CBBF87B9483}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestesDominio", "TestesDominio\TestesDominio.csproj", "{E6934E80-0475-4325-8ABE-D56EE230C06B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +51,10 @@ Global
 		{9EAAE5CA-1295-4EC7-9A0C-7598061B349A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9EAAE5CA-1295-4EC7-9A0C-7598061B349A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9EAAE5CA-1295-4EC7-9A0C-7598061B349A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E6934E80-0475-4325-8ABE-D56EE230C06B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6934E80-0475-4325-8ABE-D56EE230C06B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6934E80-0475-4325-8ABE-D56EE230C06B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6934E80-0475-4325-8ABE-D56EE230C06B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,6 +66,7 @@ Global
 		{72B67938-ECAE-4375-97DD-5A90213F3513} = {B16C976B-1C02-4880-A9C4-74C052ACF677}
 		{C9C4F237-3137-46CC-B271-3D1EF3C0FE35} = {B16C976B-1C02-4880-A9C4-74C052ACF677}
 		{9EAAE5CA-1295-4EC7-9A0C-7598061B349A} = {E562F480-9BB7-4C80-BE36-003E6D1D0ED2}
+		{E6934E80-0475-4325-8ABE-D56EE230C06B} = {3503587B-AA9F-47D3-9F20-3CBBF87B9483}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {751316A8-3B95-47AE-9C01-4D57F2A29F28}
